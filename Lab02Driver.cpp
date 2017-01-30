@@ -16,6 +16,8 @@ int main()
       delete line;
    }
 
+
+
    rf->close();
    wf->close();
    delete rf;
