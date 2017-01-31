@@ -17,7 +17,6 @@ int main()
    }
 
 
-
    rf->close();
    wf->close();
    delete rf;
